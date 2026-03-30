@@ -63,3 +63,5 @@ This project was developed for academic purposes (Scientific Writing) in collabo
 
 This repository is published for portfolio purposes only.  
 All business-related data, brand, and requirements belong to the respective owner.
+
+Unauthorized use, reproduction, or distribution is prohibited.
